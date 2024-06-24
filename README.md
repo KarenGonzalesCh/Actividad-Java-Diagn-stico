@@ -1,6 +1,6 @@
 # Actividad-Java-Diagn-stico
 
-Se te pide crear dos métodos en Java para llevar a cabo dos tareas específicas con listas de enteros:
+Se pide crear dos métodos en Java para llevar a cabo dos tareas específicas con listas de enteros:
 
 Conteo de Números Impares: Implementar un método que cuente la cantidad de números impares en una lista de enteros dada.
 
