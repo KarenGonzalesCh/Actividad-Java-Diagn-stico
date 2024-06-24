@@ -3,7 +3,7 @@ import java.util.List;
 
 public class ListAnalyzer {
     
-    // Método estático para contar números impares en una lista
+    // Contar números impares
     public static int contadorImpares(List<Integer> lista) {
         int count = 0;
         for (Integer num : lista) {
@@ -14,7 +14,7 @@ public class ListAnalyzer {
         return count;
     }
 
-    // Método estático para encontrar números consecutivos en una lista
+    // Encontrar números consecutivos
     public static List<Integer> numerosConsecutivos(List<Integer> lista) {
         List<Integer> consecutivos = new ArrayList<>();
         for (int i = 0; i < lista.size() - 1; i++) {
